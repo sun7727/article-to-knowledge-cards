@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识卡片"
+  short_description: "把文章或 Markdown/TXT 文件提炼成 5~8 张知识卡片"
+  default_prompt: "请把我提供的文章或 Markdown/TXT 文件转换成知识卡片：每张卡片包含标题、核心知识、简明解释和例子或自测问题，共 5~8 张；只提取原文中的重要知识，一卡一知识点，不编造。"
